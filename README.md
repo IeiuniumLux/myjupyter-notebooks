@@ -1,6 +1,6 @@
 # myjupyter-notebooks
 
-These notebooks review the standard Python data containers and some of the powerful data objects of NumPy and Pandas. The goals is to highlight just how much it can be achieved with a few lines of Python code. Some of the notebooks examples, make 3D images and movies with photographs taken by the NASA's Rover MSL on Mars and they’ll map the Rover's progress through Martial topography.
+These notebooks review the standard Python data containers and some of the powerful data objects of NumPy and Pandas. The goals is to highlight just how much it can be achieved with a few lines of Python code. Some of the notebooks examples, make 3D images and movies with photographs taken by the Mars Curiosity Rover and they map the Rover's progress through Martial topography.
 
 ## Quick Start
 
