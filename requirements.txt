@@ -28,7 +28,6 @@ jupyter-client
 jupyter-console
 jupyter-core
 kiwisolver
-line-profiler
 lockfile
 lxml
 MarkupSafe
