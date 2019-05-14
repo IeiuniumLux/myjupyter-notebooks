@@ -1,5 +1,7 @@
 # myjupyter-notebooks
 
+These notebooks review Python data containers which are useful on their own and which set the model for the more powerful data objects of NumPy and Pandas. They highlight just how much you can achieve with a few lines of Python. Some of the notebooks examples, make 3D images and movies with photographs taken by NASA's Rover on Mars and they’ll map the Rover's progress through Martial topography.
+
 ## Quick Start
 
 If you want to play with these notebooks without having to install anything, then open this repository in [Binder](https://mybinder.org/v2/gh/IeiuniumLux/myjupyter-notebooks.git/master):
