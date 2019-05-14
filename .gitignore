@@ -8,6 +8,5 @@
 checkpoint
 logs/*
 tf_logs/*
-images/**/*.png
-images/**/*.dot
 __MACOSX
+__pycache__
