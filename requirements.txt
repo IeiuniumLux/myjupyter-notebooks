@@ -1,5 +1,4 @@
   
-basemap
 beautifulsoup4
 bleach
 bs4
